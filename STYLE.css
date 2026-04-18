@@ -9,11 +9,11 @@ body{
 }
 header{
         background-color: #790202bd;
-        color:#ffff;
+        color:#80181848;
         text-align: center;
 }
      nav a{
-        color: blue;
+        color: rgba(0, 0, 255, 0.271);
         text-decoration:none;
         padding:4px;
         border-top-left-radius:10px;
@@ -41,7 +41,7 @@ header{
 .foto{
     background:#cbd6dd ;
     padding:12px 12px 20px 12px; 
-    border:1px solid #dddddd;
+    border:1px solid #570e0e28;
     box-shadow: 0 4px 10px #000000;
     width:220px;
     text-align:center;
